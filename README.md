@@ -1,13 +1,16 @@
-# Photo-Enhancment-Tools-
+# Visual Optimization Tool Kit #
+
  Enhance your images with this Python toolkit! Includes color correction, histogram equalization, sharpening, old photo restoration, and upscaling (using interpolation) techniques for improved image quality. Perfect for photography, image processing, and computer vision projects.
 
 
 
 
-Image Enhancement Toolkit
+5-in-1 Image Enhancement Toolkit
+
 This Python script provides a set of image enhancement techniques to improve the quality and appearance of images. It includes functions for color correction, histogram equalization, sharpening, old photo restoration, and upscaling. These techniques can be useful for various applications such as photography, image processing, and computer vision.
 
 Features
+
 Color Correction: Adjusts the color balance of an image to enhance its overall appearance.
 Histogram Equalization: Improves the contrast and brightness of an image by redistributing pixel intensities.
 Sharpening: Enhances the sharpness and clarity of edges in an image.
